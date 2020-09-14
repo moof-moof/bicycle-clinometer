@@ -15,7 +15,7 @@ I find the notion of percent more intuitive than either fractional ratios or ang
 
 The sensor needs to be calibrated first when mounted to a vehicle. The compensation value obtained then can be stored in EEPROM and automatically retrieved at start-up. 
 
-Link to project description: https://sites.google.com/site/xnebmisc/home/clinometer 
+Link to project description: http://xneb.org/mabe/xnebmisc/home/clinometer.html or https://sites.google.com/view/xneb-project-logs/home/clinometer
 
 ![](img/3-4_50.jpg) 
 
